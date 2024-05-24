@@ -48,7 +48,7 @@ This is a starter template for building applications using React for the fronten
  
 1. Clone the repository:
     ```bash
-    git clone .git
+    git clone https://github.com/vediche/TODOAPP-MAIN.git
     ```
 
 2. Navigate to the project directory:
